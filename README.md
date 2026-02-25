@@ -22,3 +22,17 @@ Sample Superstore Dataset
 1. Open the notebook in Jupyter
 2. Run all cells
 3. View visualizations and insights
+
+## 📊 Project Visualizations
+
+### 🏷 Category Wise Sales
+![Category Sales](category_sales.png)
+
+### 💰 Category Wise Profit
+![Category Profit](category_profit.png)
+
+### 🌍 Region Wise Profit
+![Region Profit](region_profit.png)
+
+### 🎯 Discount vs Profit Analysis
+![Discount vs Profit](discount_vs_profit.png)
